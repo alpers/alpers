@@ -1,6 +1,6 @@
 ### Hello world!
 
-![](wab.png)
+![](wab.jpg)
 
 - 💻 software engineer
 - 🎧 listen and share music @[Spotify](https://open.spotify.com/user/alpers)
