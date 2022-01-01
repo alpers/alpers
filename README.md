@@ -10,7 +10,6 @@
 
 ---
 
-<p></br></p>
 <p align="center">
   <a href="https://www.kaggle.com/alperm" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="alperm" /></a>
   <a href="https://alpers.medium.com" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="alpers" /></a>
