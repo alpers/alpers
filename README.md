@@ -1,7 +1,7 @@
 ### 👋 Hello world!
 💻 In industry, I currently lead AI-driven initiatives, applying data science and deep learning techniques to optimize business processes and solve real-world challenges. Previously, I refined my skills in data engineering and algorithm design through a large-scale search engine project, building robust pipelines for complex data flows.
 
-🎓 In academia, I am currently a researcher in data science, pursuing a PhD with a focus on applying machine learning and deep learning techniques to temporal, sequential, and event log data for prediction, anomaly detection, and data-driven process intelligence. Previously, during my MSc studies, I published academic work in the field of semantic search.
+🎓 In academia, I am currently focusing on data science, machine learning, and deep learning techniques, applying them to temporal, sequential, and event-log data for prediction, anomaly detection, and data-driven process intelligence. Previously, during my master's studies, I published academic papers in the field of semantic search.
 
 🧩 Skills
 - Technical Leadership & Architecture (technical leadership, solution design, system architecture, cross-functional collaboration)
